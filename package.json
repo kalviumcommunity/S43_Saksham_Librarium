@@ -1,0 +1,22 @@
+{
+  "name": "librarium",
+  "version": "1.0.0",
+  "description": "Librarium is a website, where book lovers find their favorite books online. It is designed to make buying books, then whether you're a seasoned reader, a student hitting the books, or just looking for your next favorite one to read. Librarium contains a diverse of genres, ensuring there's something for everyone.\r Key Features:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S43_Saksham_Librarium.git"
+  },
+  "author": "Saksham Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S43_Saksham_Librarium/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S43_Saksham_Librarium#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
