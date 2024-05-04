@@ -40,11 +40,11 @@ router.post("/signup", async (req, res) => {
                 expiresIn: 3600000
             })
 
-            res.send(`Welcome New User ~ ${token}`);
+            res.status(201).send(`Welcome New User ~ ${token}`);
         }
     } catch (error) {
         console.error("An error occurred:", error);
-        res.status(500).json
+        res.status(500).json({ "error": "Internal Server Error during signup" });
     }
 });
 
