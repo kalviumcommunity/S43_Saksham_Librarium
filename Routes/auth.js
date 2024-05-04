@@ -43,7 +43,6 @@ router.post("/signup", async (req, res) => {
             res.status(201).send(`Welcome New User ~ ${token}`);
         }
     } catch (error) {
-        console.error("An error occurred:", error);
         res.status(500).json({ "error": "Internal Server Error during signup" });
     }
 });
@@ -85,7 +84,6 @@ router.post('/login', async (req, res) => {
             }
         }
     } catch (error) {
-        console.error("An error occurred:", error);
         res.status(500).json({
             "error": [
                 {
