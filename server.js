@@ -1,5 +1,6 @@
 const express = require("express")
 const auth = require("./Routes/auth")
+const app = express()
 
 app.use(express.json())
 app.use("/ping/auth", auth)
