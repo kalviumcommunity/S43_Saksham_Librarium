@@ -12,4 +12,4 @@ Key Features:
 10. Responsive Design: Access Librarium on various devices, including smartphones, tablets, and desktops, with a responsive and mobile-friendly design.
 
 
-Backed Deplayed Link :- https://s43-saksham-librarium.onrender.com
+Backed Deplayed Link :- https://s43-saksham-librarium.onrender.com/ping
