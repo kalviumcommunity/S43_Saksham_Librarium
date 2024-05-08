@@ -10,3 +10,6 @@ Key Features:
 6. User Accounts: Create an account to track your orders, manage your wish list, and receive personalized book recommendations.
 7. Wish List: Save your favorite books to a wish list for easy access and future purchases.
 10. Responsive Design: Access Librarium on various devices, including smartphones, tablets, and desktops, with a responsive and mobile-friendly design.
+
+
+Backed Deplayed Link :- https://s43-saksham-librarium.onrender.com/ping
