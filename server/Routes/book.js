@@ -2,7 +2,6 @@ const router = require("express").Router();
 const blog = require("../Modules/bookModal");
 
 router.post("/", async (req, res) => {
-    console.log(req.body);
     const { name, image, author, description, price } = req.body;
 
     try {
